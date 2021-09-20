@@ -16,3 +16,4 @@ It has functionality which shows to check whether user is admin or not
 it has all required api for creating the user
 
 
+implemented backend database using mongodbatlas and authentication using firebase
