@@ -17,3 +17,4 @@ it has all required api for creating the user
 
 
 implemented backend database using mongodbatlas and authentication using firebase
+requires nodejs software
